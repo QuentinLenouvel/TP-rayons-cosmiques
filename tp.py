@@ -25,3 +25,5 @@ code_source
                     t_m += (temps[k])*(col[k]-moyenne)
                     v_m += (col[k]-moyenne)
             tt.append(t_m/v_m)
+            
+            #bite
